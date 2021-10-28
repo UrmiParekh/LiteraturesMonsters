@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="Schemas/CCP%20schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<document>
+  <exhibit>
+    <emph>WHAT DID THEY EAT? WHERE DID THEY STAY?</emph>
+  </exhibit>
+  
+  <CCPheader> WHAT DID THEY EAT? <name type="full name">MRS. AMIE LONG'S</name> MENU </CCPheader>
+  
+  <front>
+    <name type="full name">MRS. AMY LONG</name>
+    <title>MENU</title>
+    <subhead>LUNCH</subhead>
+    <list>
+      <item n="1">HAM OMELET </item>
+      <item n="2">INDIAN MEAL BATTER CAKE</item>
+      <item n="3">BEEF SOUP</item>
+    </list>
+    <subhead> ENTREE</subhead>
+    <list>
+      <item n="1">HAM</item>
+      <item n="2">MINCE PIE</item>
+      <item n="3">STEWED TOMATOES</item>
+    </list>
+    <subhead>DESSERT</subhead>
+    <list>
+      <item n="1">FRUIT CAKE</item>
+      <item n="2">SWEET POTATO PIE</item>
+    </list>
+  </front>  
+  <pb/>
+  
+  <subhead>LUNCH</subhead>  
+  <pb/>
+  
+  <title>Ham Omelet.</title>
+  <body> Fry the ham about <timer minutes="2">two minutes</timer> into a <measurement unit="Little"
+      >little</measurement> hot fat, beat the eggs, season with salt and pepper; mix <measurement
+      unit="Little">a little</measurement> flour and water into a batter, and stir into the eggs;
+    turn this over the ham, and turn quickly. </body>
+  <caption>
+    <name type="full name">Malinda Russell</name>, A Domestic Cookbook: Containing a Careful
+    Selection of Useful Receipts (Paw Paw, MI: T.O. Ward, <year>1856</year>), <abbr full="page"
+      >p.</abbr><pagenum>37</pagenum></caption>
+  <pb/>
+  
+  <pagenum>12</pagenum>
+  <title>Indian Meal Batter Cakes.</title>
+  <body> To <quantity amount="1">one</quantity>
+    <measurement unit="Quart">quart</measurement> Indian meal add <quantity amount="1"
+      >one</quantity><measurement unit="Tablespoon">tablespoon</measurement> lard, and <measurement
+      unit="Enough">enough</measurement> hot water to scald the meal; stir it smooth; add
+      <measurement unit="Enough">enough</measurement> sour milk to make a batter; break in <quantity
+      amount="2">two</quantity> eggs; put into <quantity amount="1">a</quantity>
+    <measurement unit="Pint">pint</measurement> of flour <quantity amount="2">two</quantity>
+    <measurement unit="Teaspoon">teaspoons</measurement> of soda and <quantity amount="2"
+      >two</quantity>
+    <measurement unit="Dos">do.</measurement> of cream tartar; stir this in last, and bake on a
+    griddle. </body>
+  <caption>
+    <name type="full name">Malinda Russell</name>, A Domestic Cookbook: Containing a Careful
+    Selection of Useful Receipts (Paw Paw, MI: T.O. Ward, <year>1856</year>), <abbr full="page"
+      >p.</abbr><pagenum>37</pagenum></caption>
+  <pb/>
+  
+  <pagenum>38</pagenum>
+  <title>Beef Soup. </title>
+  <body>
+    <quantity amount="6">Six</quantity><measurement unit="Lbs">pounds</measurement> of meat to
+      <quantity amount="2.5">two and one-half</quantity><measurement unit="Gallons"
+      >gallons</measurement> of water. Boil to <quantity amount="1">one</quantity><measurement
+      unit="Gallons">gallon</measurement> and <quantity amount="0.5">one-half</quantity>; then
+    strain all meat out from the bouillon. Season with pepper and salt. </body>
+  <caption>
+    <name type="full name">Abby Fisher</name>, What <name type="surname">Mrs. Fisher</name> Knows
+    About Southern Cooking (<location type="city">San Francisco</location>: Women’s Cooperative
+    Printing Office, <year>1881</year>), <abbr full="page">p.</abbr><pagenum>20</pagenum></caption>
+  <pb/>
+  
+  <title>Beef Soup. </title>
+  <body> Take the shank bone, boil <timer>until tender</timer>; chop fine, potatoes, onions, and
+    cabbage, and boil <timer>until done</timer>; season with salt, pepper, parsley, rosemary, or
+    sweet margery. Rub the yelk of <quantity amount="1">one</quantity> egg into <quantity amount="3"
+      >three</quantity>
+    <measurement unit="Tablespoon">tablespoons</measurement> flour, rubbed into rolls and dropped
+    into the soup to boil. </body>
+  <caption>
+    <name type="full name">Malinda Russell</name>, A Domestic Cookbook: Containing a Careful
+    Selection of Useful Receipts (Paw Paw, MI: T.O. Ward, <year>1856</year>), <abbr full="page"
+      >p.</abbr><pagenum>37</pagenum></caption>
+  <pb/>
+  
+  <subhead><foreign lang="french">ENTREES</foreign></subhead>
+  <pb/>
+  
+  <title>To Boil and Dress Mutton Ham.</title>
+  <body> Perforate the ham, and put slices of onion in. Rub it with salt. Canvas the ham, put in
+    whole grains of pepper and cloves; sew it tight, and boil <timer>until done</timer>. Take
+      <quantity amount="3">three</quantity>
+    <measurement unit="Spoons">spoons</measurement> sugar, <quantity amount="0.5">one
+      half</quantity>
+    <measurement unit="Pint">pint</measurement> Madeira wine, butter, thicken with flour; boil and
+    turn it over the ham with parsley. </body>
+  <caption>
+    <name type="full name">Malinda Russell</name>, A Domestic Cookbook: Containing a Careful
+    Selection of Useful Receipts (Paw Paw, MI: T.O. Ward, <year>1856</year>), <abbr full="page"
+      >p.</abbr><pagenum>35</pagenum></caption>
+  <pb/>
+  
+  <pagenum>115</pagenum> <title>Stuffed Ham.</title>
+  <body> First boil the ham; then take the skin from it while boiling, put <quantity amount="1"
+      >one</quantity>
+    <measurement unit="Tea-cup">tea-cup</measurement> of vinegar to it; then take <quantity
+      amount="0.5">half</quantity>
+    <measurement unit="Lbs">pound</measurement> of cooked veal, <quantity amount="1">one</quantity>
+    <measurement unit="Tea-cup">tea-cup</measurement> of powdered cracker; chop veal fine, mix both
+    together, salt and pepper to taste; then make gashes about one-inch a part in the ham; stuff
+    with veal and cracker, and put to bake; then pour <quantity amount="1">one</quantity>
+    <measurement unit="Pint">pint</measurement> of sherry wine over ham and baste the ham while
+    baking, <timer>until brown</timer>; while ham is baking grate <quantity amount="1"
+      >one</quantity> nutmeg over it, and sprinkle cracker powder over it.</body>
+  <caption>
+    <name type="full name">Abby Fisher</name>, What <name type="surname">Mrs. Fisher</name> Knows
+    About Southern Cooking (<location type="city">San Francisco</location>: Women’s Cooperative
+    Printing Office, <year>1881</year>), <abbr full="page">p.</abbr><pagenum>56</pagenum></caption>
+  <pb/>
+  
+  <title>Mince Pies.</title>
+  <body>
+    <quantity amount="5">Five</quantity>
+    <measurement unit="Lbs">lbs</measurement> beef, <quantity amount="4">four</quantity>
+    <measurement unit="Lbs">lbs</measurement> suet, <quantity amount="5">five</quantity>
+    <measurement unit="Lbs">lbs</measurement> raisins, <quantity amount="5">five</quantity>
+    <measurement unit="Lbs">lbs</measurement> sugar, <quantity amount="1">one</quantity>
+    <measurement unit="Lbs">lb</measurement> citron, with crackers pounded fine, <quantity
+      amount="2">two</quantity> lemons chopped fine, <quantity amount="3">three</quantity>
+    <measurement unit="Pint">pints</measurement> cider, <quantity amount="1">one</quantity>
+    <measurement unit="Quart">quart</measurement> molasses, <quantity amount="1">one</quantity>
+    <measurement unit="Quart">quart</measurement> wine, <quantity amount="1">one</quantity>
+    <measurement unit="Quart">quart</measurement> brandy, <quantity amount="1">one</quantity>
+    <measurement unit="Gill">gil</measurement>l rose water, <quantity amount="1">one</quantity>
+    <measurement unit="Quince">quince</measurement> boiled and chopped, <quantity amount="2"
+      >two</quantity>
+    <measurement unit="Tablespoon">tablespoons</measurement> salt, <quantity amount="8"
+      >eight</quantity>
+    <measurement unit="Teaspoon">teaspoons</measurement> cloves, <quantity amount="13"
+      >thirteen</quantity>
+    <measurement unit="Dos">do.</measurement> cinnamon, <quantity amount="4">four</quantity>
+    <measurement unit="Dos">do.</measurement> mace; grate nutmeg on the top of the pie, add bits of
+    sugar before baking. Mix molasses, crackers, cider and spice together, heat to <timer>almost a
+      scald</timer>, then mix it with the remainder of the ingredients. Mix the sugar with the wine.
+    If you like them richer, add fruits, sugar, and spice.</body>
+  <caption>
+    <name type="full name">Malinda Russell</name>, A Domestic Cookbook: Containing a Careful
+    Selection of Useful Receipts (Paw Paw, MI: T.O. Ward, <year>1856</year>), <abbr full="page"
+      >p.</abbr><pagenum>25</pagenum></caption>
+  <pb/>
+  
+  <pagenum>59</pagenum>
+  <title> Mince Pies</title>
+  <body>
+    <quantity amount="1">One</quantity> beef tongue <timer>boiled tender</timer>, then take the skin
+    off; <quantity amount="4">four</quantity>
+    <measurement unit="Lbs">pounds</measurement> beef kidney suet, peel all the skin off it and chop
+    very fine with the tongue; <quantity amount="2">two</quantity>
+    <measurement unit="Lbs">pounds</measurement> citron chopped fine, <quantity amount="4"
+      >four</quantity>
+    <measurement unit="Lbs">pounds</measurement> apples, <quantity amount="4">four</quantity>
+    <measurement unit="Lbs">pounds</measurement> raisins well seeded, <quantity amount="4"
+      >four</quantity>
+    <measurement unit="Lbs">pounds</measurement> currants well washed and dried with a towel,
+      <quantity amount="4">four</quantity> oranges, the peel of <quantity amount="2">two</quantity>
+    grated, and the fruit of all <quantity amount="4">four</quantity> grated into mince meat,
+      <quantity amount="2">two</quantity>
+    <measurement unit="Tablespoon">tablespoonfuls</measurement> of ground allspice, <quantity
+      amount="1">one</quantity>
+    <measurement unit="Tablespoon">tablespoonful</measurement> of cloves, <quantity amount="2"
+      >two</quantity> nutmegs grated, and <quantity amount="2">two</quantity>
+    <measurement unit="Tablespoon">tablespoonfuls</measurement> of ground cinnamon. Chop the whole
+    very fine, and mix well together, then put in <quantity amount="0.5">one-half</quantity>
+    <measurement unit="Gallons">gallon</measurement> sherry wine, and <quantity amount="0.5">one
+      half</quantity>-<measurement unit="Gallons">gallon</measurement> brandy. Grate <quantity
+      amount="2">two</quantity> lemons in the meat. Salt to your taste, also sweeten to your taste.
+    Have bottom and top crust. </body>
+  <caption>
+    <name type="full name">Abby Fisher</name>, What <name type="surname">Mrs. Fisher</name> Knows
+    About Southern Cooking (<location type="city">San Francisco</location>: Women’s Cooperative
+    Printing Office, <year>1881</year>), <abbr full="page">p.</abbr><pagenum>27</pagenum></caption>
+  <pb/>
+  
+  <pagenum>153</pagenum>
+  <title>Stewed Tomatoes.</title>
+  <body> First scald the tomatoes in boiling water and then peel the skin from them, then cut them
+    up in small pieces, cutting also <quantity amount="1">one</quantity> slice of onion fine in
+    them; add no water; bread crumbs, <quantity amount="1">one</quantity>
+    <measurement unit="Tablespoon">tablespoonful</measurement> of butter, pepper and salt to taste.
+    To <quantity amount="1">one</quantity>
+    <measurement unit="Dozen">dozen</measurement> of tomatoes, <quantity amount="0.5"
+      >half</quantity> a <measurement unit="Tea-cup">tea-cupful</measurement> of bread crumbs. </body>
+  <caption>
+    <name type="full name">Abby Fisher</name>, What <name type="surname">Mrs. Fisher</name> Knows
+    About Southern Cooking (<location type="city">San Francisco</location>: Women’s Cooperative
+    Printing Office, <year>1881</year>), <abbr full="page">p.</abbr><pagenum>69</pagenum></caption>
+  <pb/>
+  
+  <subhead>DESSERT</subhead>
+  <pb/>
+  
+  <pagenum>65</pagenum>
+  <title>Fruit Cake.</title>
+  <body>
+    <quantity amount="1">One</quantity>
+    <measurement unit="Lbs">pound</measurement> of flour sifted and browned in stove, <quantity
+      amount="1">one</quantity>
+    <measurement unit="Lbs">pound</measurement> of citron sliced into very small pieces, <quantity
+      amount="1">one</quantity>
+    <measurement unit="Lbs">pound</measurement> of raisins cut in small pieces, <quantity amount="1"
+      >one</quantity>
+    <measurement unit="Lbs">pound</measurement> of cur-rants well washed and dried with clean towel,
+      <quantity amount="1">one</quantity>
+    <measurement unit="Tea-cup">tea-cup</measurement> of almonds chopped fine, <quantity amount="1"
+      >one</quantity>
+    <measurement unit="Tablespoon">tablespoonful</measurement> of powdered cinnamon, <quantity
+      amount="0.5">half</quantity> a <measurement unit="Teaspoon">teaspoonful</measurement> of mace,
+      <quantity amount="1">one</quantity>
+    <measurement unit="Tablespoon">tablespoonful</measurement> of allspice, <quantity amount="0.5"
+      >half</quantity> a <measurement unit="Teaspoon">teaspoonful</measurement> of ground cloves,
+      <quantity amount="1">one</quantity>
+    <measurement unit="Pint">pint</measurement> of black molasses strained before using, <quantity
+      amount="1">one</quantity>
+    <measurement unit="Wineglass">wineglass</measurement> of brandy, <quantity amount="1"
+      >one</quantity>
+    <measurement unit="Lbs">pound</measurement> of butter, <quantity amount="1">one</quantity>
+    <measurement unit="Lbs">pound</measurement> of sugar, <quantity amount="1">one</quantity>
+    <measurement unit="Dozen">dozen</measurement> eggs. Beat whites and yelks separate, light,
+    before adding to cake.</body>
+  <caption>
+    <name type="full name">Abby Fisher</name>, What <name type="surname">Mrs. Fisher</name> Knows
+    About Southern Cooking (<location type="city">San Francisco</location>: Women’s Cooperative
+    Printing Office, <year>1881</year>), <abbr full="page">p.</abbr><pagenum>65</pagenum></caption>
+  <pb/>
+  
+  <pagenum>53</pagenum>
+  <title>Sweet Potato Pie.</title>
+  <body>
+    <quantity amount="2">Two</quantity>
+    <measurement unit="Lbs">pounds</measurement> of potatoes will make <quantity amount="2"
+      >two</quantity> pies. Boil the potatoes <timer>soft</timer>; peel and mash fine through a
+    cull-ender while hot; <quantity amount="1">one</quantity>
+    <measurement unit="Tablespoon">tablespoonful</measurement> of butter to be mashed in with the
+    potato. Take <quantity amount="5">five</quantity> eggs and beat the yelks and whites separate
+    and add <quantity amount="1">one</quantity>
+    <measurement unit="Gill">gill</measurement> of milk; sweeten to taste; squeeze the juice of
+      <quantity amount="1">one</quantity> orange, and grate <quantity amount="0.5"
+      >one-half</quantity> of the peel into the liquid. <quantity amount="0.5">One half</quantity>
+    <measurement unit="Teaspoon">teaspoonful</measurement> of salt in the potatoes. Have only
+      <quantity amount="1">one</quantity> crust and that at the bottom of the plate. Bake
+    quickly.</body>
+  <caption>
+    <name type="full name">Abby Fisher</name>, What <name type="surname">Mrs. Fisher</name> Knows
+    About Southern Cooking (<location type="city">San Francisco</location>: Women’s Cooperative
+    Printing Office, <year>1881</year>), <abbr full="page">p.</abbr><pagenum>26</pagenum></caption>
+</document>
